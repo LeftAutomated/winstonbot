@@ -103,4 +103,4 @@ client.on('message', message =>{
     }
 });
 
-client.login('NzY4Mjg0MjI2MDI5NjE3MTUy.X4-OcQ.ngWsxY3YtjuMmguDVLaCYLY4QoY');
+client.login('token');
